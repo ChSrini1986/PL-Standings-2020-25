@@ -1,0 +1,10 @@
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/SpringDemoApplication.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/config/DataLoader.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/controller/CustomerController.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/controller/ProductController.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/model/Customer.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/model/Product.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/repository/CustomerRepository.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/repository/ProductRepository.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/service/CustomerService.java
+/workspaces/PL-Standings-2020-25/src/main/java/com/example/springdemo/service/ProductService.java

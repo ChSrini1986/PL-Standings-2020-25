@@ -1,0 +1,10 @@
+com/example/springdemo/config/DataLoader.class
+com/example/springdemo/service/CustomerService.class
+com/example/springdemo/repository/ProductRepository.class
+com/example/springdemo/SpringDemoApplication.class
+com/example/springdemo/repository/CustomerRepository.class
+com/example/springdemo/service/ProductService.class
+com/example/springdemo/controller/ProductController.class
+com/example/springdemo/controller/CustomerController.class
+com/example/springdemo/model/Customer.class
+com/example/springdemo/model/Product.class
